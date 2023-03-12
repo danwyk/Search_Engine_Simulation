@@ -1,4 +1,4 @@
-p5_search_engine
+Search Engine Simulation - Demo
 ===========================
 This project build a scalable search engine similar to Google or Bing.
 
